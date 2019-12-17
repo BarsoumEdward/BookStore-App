@@ -1,0 +1,128 @@
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\ApplicationInsights.config
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\csc.exe
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\vbc.exe
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.WebUI.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.WebUI.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.Domain.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.Web.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Helpers.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Mvc.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.Domain.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.Web.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Helpers.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Mvc.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Moq.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\WebActivator.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Moq.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\ApplicationInsights.config
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\csc.exe
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\vbc.exe
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.WebUI.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.WebUI.pdb
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.Domain.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.Web.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.WindowsServer.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.ApplicationInsights.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Moq.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Helpers.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Mvc.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\WebActivator.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\BookStore.Domain.pdb
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.Web.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.AI.WindowsServer.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.ApplicationInsights.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Moq.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.pdb
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Common.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Helpers.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\bin\System.Web.Mvc.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb

@@ -1,0 +1,52 @@
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.Migrations.InitialCreate.resources
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.GenerateResource.Cache
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.Migrations.InitialCreate1.resources
+F:\المنهج الدراسى\لغات برمجه\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.Migrations.InitialCreate.resources
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.Migrations.InitialCreate1.resources
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.GenerateResource.Cache
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+F:\المنهج الدراسى\لغات برمجه\كورسات C# & Web\Course  web\MVC\مشاريع بدائيه\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb

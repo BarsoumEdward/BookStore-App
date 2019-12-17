@@ -1,0 +1,41 @@
+﻿@model BookStore.WebUI.Models.LoginViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>login</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/ErrorStyle.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="panel "> 
+        <div class="panel-heading">
+            <h3>Login Administration</h3>
+        </div>
+        <div class="panel-body">
+            <p class="lead">Please Log in to access The administration area:</p>
+            @using (Html.BeginForm("Login","Account"))
+            {
+                @Html.ValidationSummary()
+                <div class="form-group">
+                    <label>Username:</label>
+                    @Html.TextBoxFor(m=>m.username, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Password:</label>
+                    @Html.PasswordFor(m=>m.password, new { @class = "form-control " })
+                </div>
+                <input type="submit" value="Login" class="btn btn-primary" />
+            }
+        </div>
+    </div>
+</body>
+</html>
